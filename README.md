@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Rashmi Navodya Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hello, I'm Rashmi Navodya</h1>
+<h1 align="center">👋 Hello, I'm Mekala rathnayake </h1>
 
 <p align="center">
   🎓 Information Technology Undergraduate <br>
@@ -54,12 +54,11 @@ I am an Information Technology undergraduate passionate about software developme
 
 📧 Email: <a href="mailto:rashminavodya7@gmail.com">rashminavodya7@gmail.com</a><br><br>
 
-💼 LinkedIn: <a href="https://www.linkedin.com/in/rashmi-navodya-ba4705311" target="_blank">
-linkedin.com/in/rashmi-navodya
+💼 LinkedIn: <a href="www.linkedin.com/in/mekala-rathnayake-89a0a4390" target="_blank">
+linkedin.com/in/mekala-rathnayake
 </a><br><br>
 
-🌐 GitHub: <a href="https://github.com/rashmi749" target="_blank">
-github.com/rashmi749
+
 </a>
 
 </p>
